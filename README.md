@@ -1,2 +1,3 @@
-# Urban-Heat-Island-Analysis-using-Land-Surface-Temperature-and-Built-Up-Density
-The main objective of this project is to study the Urban Heat Island (UHI) eﬀect in Delhi by deriving Land Surface Temperature (LST) from satellite data and analyzing its relationship with built-up areas. The aim is to identify high-temperature zones and understand how urbanization influences temperature varia on across the city.
+The Landsat-8 satellite imagery was imported into QGIS for processing. Band 4, Band 5, and Band 10 were clipped to the selected Area of Interest. The clipped thermal band was converted from Digital Number to Top of Atmosphere Radiance using the radiometric rescaling factors available in the Landsat metadata.
+
+Overall, this project demonstrates how remote sensing and GIS-based techniques can be eﬀec vely applied to monitor urban thermal characteris cs and support sustainable and climate-resilient development in Delhi.
