@@ -1,0 +1,2 @@
+# Urban-Heat-Island-Analysis-using-Land-Surface-Temperature-and-Built-Up-Density
+The main objective of this project is to study the Urban Heat Island (UHI) eﬀect in Delhi by deriving Land Surface Temperature (LST) from satellite data and analyzing its relationship with built-up areas. The aim is to identify high-temperature zones and understand how urbanization influences temperature varia on across the city.
